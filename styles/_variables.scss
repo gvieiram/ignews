@@ -1,0 +1,63 @@
+// Primary Colors
+
+$white: #FFFFFF;
+$gray-100: #e1e1e1;
+$gray-300: #a8a8b3;
+$gray-800: #29292e;
+$gray-850: #1f2729;
+$gray-900: #121214;
+
+$cyan-500: #61dafb;
+$yellow-500: #eba417;
+
+/* Others colors
+$black: #000000 !default;
+$bombay: #b9bcc1 !default;
+$corduroy: #707372 !default;
+$light-grey: #dcdbdc !default;
+$alto: #dfdede !default;
+$red: #e02b27 !default;
+$lunar-green: #373a36 !default;
+$camarone-green: #006400 !default;
+$cosmos: #ffd1d1 !default;
+$harp: #d4edda !default;
+$half-colonial-white: #fdf0d5 !default;
+$info-alert: #d1ecf1 !default;
+$tutu: #fae5e5 !default;
+$raw-umber: #6f4400 !default;
+$aqua-spring: #e5efe5 !default;
+$snow: #fafafa !default;
+$white-smoke: #f5f5f5 !default;
+$light-grey-background: #f8f8f8 !default;
+
+$royal-blue: #4d6edb;
+$selago: #f0ecfc;
+$yellow: #ffff00;
+$salem: #05853e;
+$silver: #cccccc;
+$gallery: #eeeeee;
+// Deprecated Colors 
+$blue-ribbon: #005af5; */
+
+/* Typography */
+
+$family-roboto: "Roboto", "Arial", sans-serif !default;
+
+$family-sans-serif: "Verdana", "Arial", sans-serif !default;
+
+$family-barlow: "Barlow", "Arial", sans-serif !default;
+
+
+/* Font size and element sizing */
+$size-1: 3rem; //48
+$size-2: 2.5rem; //40
+$size-3: 2rem; //32
+$size-4: 1.5rem; //24
+$size-5: 1.25rem; //20
+$size-6: 1rem; //16
+$size-7: 0.875rem; //14
+$size-8: 0.75rem; //12
+$size-9: 0.625rem; //10
+$size-10: 0.5rem; //8
+$size-11: 0.375rem; //6
+$size-12: 0.25rem; //4
