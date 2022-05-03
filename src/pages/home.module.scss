@@ -15,7 +15,7 @@
   max-width: 600px;
 
   > span {
-    font-size: 1.5rem;
+    font-size: $size-4;
     font-weight: bold;
   }
 
@@ -23,7 +23,7 @@
     font-size: 4.5rem;
     line-height: 4.5rem;
     font-weight: 900;
-    margin-top: 2.5rem;
+    margin-top: $size-2;
 
     span {
       color: $cyan-500;
@@ -31,13 +31,17 @@
   }
 
   p {
-    font-size: 1.5rem;
+    font-size: $size-4;
     line-height: 2.25rem;
-    margin-top: 1.5rem;
+    margin-top: $size-4;
 
     span {
       color: $cyan-500;
       font-weight: bold;
     }
+  }
+
+  button {
+    margin-top: $size-2;
   }
 }
